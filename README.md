@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**murphyhoucn/murphyhoucn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api?username=murphyhoucn&theme=dark)
+<div align = center>
+    <img src = "https://github-readme-stats.vercel.app/api?username=murphyhoucn&theme=dark">
+</div>
+
+<div align = center>
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=murphyhoucn&show_icons=true&count_private=true&theme=gotham">
+</div>
