@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=center>
-    <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" style="zoom: 10%;"/>
+    <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" width="150px"/>
     </br>
 	<p>Dreams' never sold, blood's never cold.</p>
     <p style="font-size:30px"><b>Murphy</b></p>
@@ -12,6 +12,7 @@
     <p style="font-size:30px"><b>中国海洋大学</b></p>
     <p style="font-size:20px">通信工程</p>
 </div>
+
 
 ---
 
