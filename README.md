@@ -13,6 +13,13 @@
     <p style="font-size:20px">通信工程</p>
 </div>
 
+---
+
+<div align = center>
+<img src = "https://github-readme-stats.vercel.app/api?username=murphyhoucn&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=murphyhoucn&show_icons=true&count_private=true&theme=gotham">
+</div>
+
 
 ---
 
@@ -28,24 +35,4 @@
     去看并被感动；</br>
     去看并被教育…</br>
     <p>
-</div>
----
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<div align = center>
-    <img src = "https://github-readme-stats.vercel.app/api?username=murphyhoucn&theme=dark">
-</div>
-
-<div align = center>
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=murphyhoucn&show_icons=true&count_private=true&theme=gotham">
 </div>
