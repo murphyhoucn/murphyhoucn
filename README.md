@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=center>
-    <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" style="zoom: 35%;"/>
+    <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" style="zoom: 10%;"/>
     </br>
 	<p>Dreams' never sold, blood's never cold.</p>
     <p style="font-size:30px"><b>Murphy</b></p>
@@ -13,6 +13,7 @@
     <p style="font-size:20px">通信工程</p>
 </div>
 
+---
 
 <div align=center>
     去看生活，去看世界；</br>
@@ -27,7 +28,7 @@
     去看并被教育…</br>
     <p>
 </div>
-
+---
 
 Here are some ideas to get you started:
 
@@ -47,4 +48,3 @@ Here are some ideas to get you started:
 <div align = center>
         <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=murphyhoucn&show_icons=true&count_private=true&theme=gotham">
 </div>
-
