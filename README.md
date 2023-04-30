@@ -9,8 +9,8 @@
 	<p></p>
 </div>
 <div align=center>
-    <p style="font-size:30px"><b>中国海洋大学</b></p>
-    <p style="font-size:20px">通信工程</p>
+    <p style="font-size:30px"><b>Ocean University of China</b></p>
+    <p style="font-size:20px">Communication Engineering</p>
 </div>
 
 ---
@@ -24,15 +24,15 @@
 ---
 
 <div align=center>
-    去看生活，去看世界；</br>
-    去目击伟大的历史事件；</br>
-    去看穷人的面孔和骄傲者的姿态；</br>
-    去看不同寻常的事物——机器、军队、群众、以及丛林中和月球上的阴影；</br>
-    去看人类的杰作——绘画、建筑和发明；</br>
-    去看千里之外的世界，去看隐藏在高墙和房间内的事物，以及难以接近的危险事件；</br>
-    去看那些被男人所爱着的女人们还有孩子；</br>
-    去看并且享受愉悦；</br>
-    去看并被感动；</br>
-    去看并被教育…</br>
+    To see life, to see the world;</br>
+    to eyewitness great events;</br>
+    to watch the faces of the poor and the gestures of the proud,</br>
+    To see strange things - machines, armies, multitudes, shadows in the jungle and on the moon;</br>
+    to see man’s work - his paintings, towers and discoveries;</br>
+    to see things thousands of miles away, things hidden behind walls and within rooms, things dangerous to come to;</br>
+    the women that men love and many children;</br>
+    to see and to take pleasure in seeing;</br>
+    to see and be amazed;</br>
+    to see and be instructed…</br>
     <p>
 </div>
