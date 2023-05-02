@@ -16,7 +16,7 @@
 ---
 
 <div align = center>
-<img src = "https://github-readme-stats.vercel.app/api?username=murphyhoucn&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api?username=murphyhoucn&theme=dark"></br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=murphyhoucn&show_icons=true&count_private=true&theme=gotham">
 </div>
 
