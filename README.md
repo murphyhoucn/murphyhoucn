@@ -1,14 +1,17 @@
-### Hi, here 👋
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 <div align=center>
     <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" width="150px"/>
     </br>
-	<p>A Future Without Disappointment!</p>
+  <p>A Future Without Disappointment!</p>
     <p style="font-size:30px"><b>Murphy</b></p>
     <p style="font-size:20px"><a href="https://cosmicdusty.cc/">Website: CosmicDusty</a></p>
-	<p></p>
+  <p></p>
 </div>
 <div align=center>
     <p style="font-size:30px"><b>Ocean University of China</b></p>
@@ -18,15 +21,20 @@
 ---
 
 <div align="center"> 
-	<img height=150px  src="https://github-readme-stats.vercel.app/api?username=murphyhoucn&hide_title=true&hide_border=true&show_icons=trueline_height=21&&theme=dark" /> 
-	<img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=murphyhoucn&hide_title=true&hide_border=true&layout=compact&langs_count=6&&theme=dark" /> 
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=dark&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" height="185px" /> 
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=dark&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=bash,docker,git,linux,md,c,cpp,py,matlab,arduino">
+  <img src="https://skillicons.dev/icons?i=github,stackoverflow,visualstudio,vscode">
 </div>
 
 ---
 
 <div align="center"> 
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn" /> 
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=murphyhoucn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <div align=center>
