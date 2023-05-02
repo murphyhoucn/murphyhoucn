@@ -3,7 +3,6 @@
   <p>Nice to meet you.❤</p>  
 </h1>
 
-
 <div align=center>
     <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" width="150px"/>
     </br>
@@ -31,17 +30,17 @@
   📫 How to reach me: <a href="mailto: cosmicdustycn@outlook.com">cosmicdustycn@outlook.com</a>
 </p>
 
-<hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=bash,docker,git,linux,md,c,cpp,py,matlab,arduino">
   <img src="https://skillicons.dev/icons?i=github,stackoverflow,visualstudio,vscode">
 </div>
 
-<hr>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <div align="center"> 
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" height="150px" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" height="150px" /> 
@@ -49,7 +48,7 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="150px" />
 </div>
 
-<hr>
+
 
 <h2 align="center">🏆 Github Profile Trophy 🏆</h2>
 <br>
@@ -57,7 +56,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=murphyhoucn&column=7"/>
 </div>
 
----
+<hr>
+
 <div align=center>
     To see life, to see the world;</br>
     to eyewitness great events;</br>
