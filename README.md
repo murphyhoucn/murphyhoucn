@@ -54,7 +54,7 @@
 <h1 align="center">🏆 Github Profile Trophy 🏆</h1>
 <br>
 <div align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=murphyhoucn&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=murphyhoucn&column=7&theme=onedark"/>
 </div>
 
 <h1 align="center">🪄  Ideal  🪄</h1>
