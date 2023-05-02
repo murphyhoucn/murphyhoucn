@@ -29,23 +29,30 @@
   💬 Ask me anything about from <a href="https://github.com/murphyhoucn/murphyhoucn/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: cosmicdustycn@outlook.com">cosmicdustycn@outlook.com</a>
-
 </p>
 
----
-
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <div align="center"> 
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=dark&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" height="185px" /> 
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=dark&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
-  </br>
   <img src="https://skillicons.dev/icons?i=bash,docker,git,linux,md,c,cpp,py,matlab,arduino">
   <img src="https://skillicons.dev/icons?i=github,stackoverflow,visualstudio,vscode">
+</div>
+
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center"> 
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" height="185px" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" height="185px" /> 
+  </br>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
 </div>
 
 ---
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn" /> 
+
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=murphyhoucn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
