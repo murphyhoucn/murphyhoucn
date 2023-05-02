@@ -1,6 +1,6 @@
 ### Hi, here 👋
 
-<div align="center"> <img src="https://metrics.lecoq.io/murphyhoucn?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=murphyhoucn" /> </div>
 
 <div align=center>
     <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" width="150px"/>
