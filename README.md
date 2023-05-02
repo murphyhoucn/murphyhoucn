@@ -1,6 +1,5 @@
 <h1 align="center">
-  <p>Hi Here!👋 I'm Murphy.</p>
-  <p>Nice to meet you.❤</p>  
+  <p>👋  Hi Here! I'm Murphy. Nice to meet you.  ❤</p>  
 </h1>
 
 <div align=center>
@@ -31,7 +30,7 @@
 </p>
 
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,vim,md,c,cpp,py,pytorch,tensorflow,matlab" /></br>
@@ -41,7 +40,7 @@
 </p>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h1 align="center">⚡ Stats ⚡</h1>
 
 <div align="center"> 
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" height="150px" /> 
@@ -52,14 +51,13 @@
 
 
 
-<h2 align="center">🏆 Github Profile Trophy 🏆</h2>
+<h1 align="center">🏆 Github Profile Trophy 🏆</h1>
 <br>
 <div align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=murphyhoucn&column=7"/>
 </div>
 
-<hr>
-
+<h1 align="center">🪄  Ideal  🪄</h1>
 <div align=center>
     To see life, to see the world;</br>
     to eyewitness great events;</br>
