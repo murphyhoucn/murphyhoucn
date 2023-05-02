@@ -1,22 +1,36 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <p>Hi Here!👋 I'm Murphy.</p>
+  <p>Nice to meet you.❤</p>  
 </h1>
 
 
 <div align=center>
     <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" width="150px"/>
     </br>
-  <p>A Future Without Disappointment!</p>
-    <p style="font-size:30px"><b>Murphy</b></p>
-    <p style="font-size:20px"><a href="https://cosmicdusty.cc/">Website: CosmicDusty</a></p>
+
   <p></p>
 </div>
-<div align=center>
-    <p style="font-size:30px"><b>Ocean University of China</b></p>
-    <p style="font-size:20px">Communication Engineering</p>
-</div>
+
+<p align="center">
+  Hi, I'm Murphy, Learning and always learning
+  <br>
+  💫 I hope 'A Future Without Disappointment!'
+  <br>
+  🔬 I'm currently studying for a bachelor's degree in Ocean University of China majoring in Communication Engineering
+  <br>
+  🔬 I'm going to Northwestern Polytechnical University for a master's degree
+  <br>
+  💻 I love Computer Science and Electronic Engineering
+  <br>
+  📚 I’m currently learning Computer vision and Pattern recognition for HSI
+  <br>
+  🌐 You can lean more about me from my Web Page:<a href="[https://github.com/murphyhoucn/murphyhoucn/issues](https://cosmicdusty.cc/)" title="cosmicdusty">Here</a>
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/murphyhoucn/murphyhoucn/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: cosmicdustycn@outlook.com">cosmicdustycn@outlook.com</a>
+
+</p>
 
 ---
 
