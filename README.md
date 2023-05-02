@@ -23,7 +23,7 @@
   <br>
   📚 I’m currently learning Computer vision and Pattern recognition for HSI
   <br>
-  🌐 You can lean more about me from my Web Page:<a href="[https://github.com/murphyhoucn/murphyhoucn/issues](https://cosmicdusty.cc/)" title="cosmicdusty">Here</a>
+  🌐 You can lean more about me from my Web Page:<a href="https://cosmicdusty.cc/" title="cosmicdusty">cosmicdusty</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/murphyhoucn/murphyhoucn/issues" title="Issues">Here</a>
   <br>
