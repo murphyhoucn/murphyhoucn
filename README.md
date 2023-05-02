@@ -49,13 +49,13 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="150px" />
 </div>
 
----
+<hr>
 
+<h2 align="center">🏆 Github Profile Trophy 🏆</h2>
+<br>
 <div align="center"> 
-
+<img src="https://github-profile-trophy.vercel.app/?username=murphyhoucn&column=7"/>
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=murphyhoucn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <div align=center>
