@@ -34,8 +34,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,vim" /></br>
-    <img src="https://skillicons.dev/icons?i=md,c,cpp,py,pytorch,tensorflow,matlab"></br>
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,vim,md,c,cpp,py,pytorch,tensorflow,matlab" /></br>
     <img src="https://skillicons.dev/icons?i=arduino,html,css,js,nodejs,java,androidstudio"></br>
     <img src="https://skillicons.dev/icons?i=github,stackoverflow,discord,visualstudio,vscode"></br>
   </a>
