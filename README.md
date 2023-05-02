@@ -1,6 +1,7 @@
 ### Hi, here 👋
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=murphyhoucn" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=murphyhoucn&theme=xcode" /> </div>
 
 <div align=center>
     <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" width="150px"/>
