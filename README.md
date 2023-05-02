@@ -11,17 +11,17 @@
 </div>
 
 <p align="center">
-  Hi, I'm Murphy, Learning and always learning
+  Hi, I'm Murphy, <b>Learning and always learning</b>
   <br>
   💫 I hope 'A Future Without Disappointment!'
   <br>
-  🔬 I'm currently studying for a bachelor's degree in Ocean University of China majoring in Communication Engineering
+  🔬 I'm currently studying for a bachelor's degree in <b>Ocean University of China</b> majoring in Communication Engineering
   <br>
-  🔬 I'm going to Northwestern Polytechnical University for a master's degree
+  🔬 I'm going to <b>Northwestern Polytechnical University</b> for a master's degree
   <br>
-  💻 I love Computer Science and Electronic Engineering
+  💻 I love <b>Computer Science</b> and <b>Electronic Engineering</b>
   <br>
-  📚 I’m currently learning Computer vision and Pattern recognition for HSI
+  📚 I’m currently learning <b>Computer Vision</b> and <b>Pattern Recognition</b> for HSI
   <br>
   🌐 You can lean more about me from my Web Page: <a href="https://cosmicdusty.cc/" title="cosmicdusty">cosmicdusty</a>
   <br>
@@ -32,11 +32,14 @@
 
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<div align="center"> 
-  <img src="https://skillicons.dev/icons?i=bash,docker,git,linux,md,c,cpp,py,matlab,arduino">
-  <img src="https://skillicons.dev/icons?i=github,stackoverflow,visualstudio,vscode">
-</div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,vim" /></br>
+    <img src="https://skillicons.dev/icons?i=md,c,cpp,py,pytorch,tensorflow,matlab"></br>
+    <img src="https://skillicons.dev/icons?i=arduino,html,css,js,nodejs,java,androidstudio"></br>
+    <img src="https://skillicons.dev/icons?i=github,stackoverflow,discord,visualstudio,vscode"></br>
+  </a>
+</p>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
