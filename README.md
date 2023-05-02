@@ -43,8 +43,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center"> 
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" height="150px" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" height="150px" /> 
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" height="185px" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" height="185px" /> 
   </br>
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
 </div>
