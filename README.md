@@ -1,8 +1,5 @@
 ### Hi, here 👋
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=murphyhoucn" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=murphyhoucn&theme=xcode" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn" /> </div>
 
 
 <div align=center>
@@ -27,6 +24,11 @@
 
 ---
 
+<div align="center"> 
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn" /> 
+</div>
+
+---
 <div align=center>
     To see life, to see the world;</br>
     to eyewitness great events;</br>
