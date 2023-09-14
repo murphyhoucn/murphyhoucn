@@ -57,7 +57,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=murphyhoucn&column=7&theme=onedark"/>
 </div>
 
-<h1 align="center">🪄  Ideal  🪄</h1>
+<h1 align="center">✨  Ideal  ✨</h1>
 <div align=center>
     To see life, to see the world;</br>
     to eyewitness great events;</br>
