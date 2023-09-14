@@ -14,9 +14,9 @@
   <br>
   💫 I hope 'A Future Without Disappointment!'
   <br>
-  🔬 I'm currently studying for a bachelor's degree in <b>Ocean University of China</b> majoring in Communication Engineering
+  🔬 I've get a bachelor's degree in <b>Ocean University of China</b> majoring in Communication Engineering
   <br>
-  🔬 I'm going to <b>Northwestern Polytechnical University</b> for a master's degree
+  🔬 Now, I'm studying for a master's degree in <b>Northwestern Polytechnical University</b>
   <br>
   💻 I love <b>Computer Science</b> and <b>Electronic Engineering</b>
   <br>
