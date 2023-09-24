@@ -1,11 +1,8 @@
-<h1 align="center">
-  <p>👋  Hi Here! I'm Murphy. Nice to meet you.  ❤</p>  
-</h1>
+<h1 align="center">👋  Hi Here! I'm Murphy. Nice to meet you.  ❤</h1>
 
 <div align=center>
     <img src="https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/aboutavatar.png" width="150px"/>
     </br>
-
   <p></p>
 </div>
 
