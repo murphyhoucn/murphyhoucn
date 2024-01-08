@@ -17,7 +17,7 @@
   <br>
   💻 I love <b>Computer Science</b> and <b>Information Science</b>
   <br>
-  📚 I’m currently learning <b>Computer Vision</b>, <b>Pattern Recognition</b> and Image Processing for Remote sensing images
+  📚 I’m currently learning <b>Computer Vision</b>, <b>Pattern Recognition</b> and <b>Image Processing</b> for Remote Sensing Images
   <br>
   🌐 You can lean more about me from my HomePage: <a href="https://cosmicdusty.cc/" title="cosmicdusty">cosmicdusty</a>
   <br>
