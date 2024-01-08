@@ -11,15 +11,15 @@
   <br>
   💫 I hope 'A Future Without Disappointment!'
   <br>
-  🔬 I've get a bachelor's degree in <b>Ocean University of China</b> majoring in Communication Engineering
+  🔬 I've get the bachelor's degree in <b>Ocean University of China</b> majoring in Communication Engineering
   <br>
-  🔬 Now, I'm studying for a master's degree in <b>Northwestern Polytechnical University</b>
+  🔬 Now, I'm studying for the master's degree in <b>Northwestern Polytechnical University</b>
   <br>
-  💻 I love <b>Computer Science</b> and <b>Electronic Engineering</b>
+  💻 I love <b>Computer Science</b> and <b>Information Science</b>
   <br>
-  📚 I’m currently learning <b>Computer Vision</b> and <b>Pattern Recognition</b> for HSI
+  📚 I’m currently learning <b>Computer Vision</b>, <b>Pattern Recognition</b> and Image Processing for Remote sensing images
   <br>
-  🌐 You can lean more about me from my Web Page: <a href="https://cosmicdusty.cc/" title="cosmicdusty">cosmicdusty</a>
+  🌐 You can lean more about me from my HomePage: <a href="https://cosmicdusty.cc/" title="cosmicdusty">cosmicdusty</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/murphyhoucn/murphyhoucn/issues" title="Issues">Here</a>
   <br>
@@ -45,7 +45,6 @@
   </br>
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="150px" />
 </div>
-
 
 
 <h1 align="center">🏆 Github Profile Trophy 🏆</h1>
