@@ -15,6 +15,8 @@
   <br>
   🔬 Now, I'm studying for the master's degree in <b>Northwestern Polytechnical University</b>
   <br>
+  🔬 My major is <b>Information and Communication Engineering</b>
+  <br>
   💻 I love <b>Computer Science</b> and <b>Information Science</b>
   <br>
   📚 I’m currently learning <b>Computer Vision</b>, <b>Pattern Recognition</b> and <b>Image Processing</b> for Remote Sensing Images
