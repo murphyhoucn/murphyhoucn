@@ -27,16 +27,19 @@
 - 💬 Ask me anything about from <a href="https://github.com/murphyhoucn/murphyhoucn/issues" title="Issues">Here</a>
 - 📫 How to reach me: <a href="mailto: cosmicdustycn@outlook.com">cosmicdustycn@outlook.com</a>
 
-
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmurpyhoucn&query=stars&suffix=%20stars&logo=Github&label=Github&color=blue)](https://github.com/murpyhoucn)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40murpyhoucn%2F73835383-9c0c-4e6c-9641-27b248e942c2.json&query=%24.data.grand_total.human_readable_total_including_other_language&logo=wakatime&label=CodeTime&color=blue)](https://github.com/murpyhoucn)
 
 ### 📇 Github statistics
 <div style="display: flex;">
-      <img src="https://github-readme-stats.vercel.app/api?username=murphyhoucn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="width: 50%;" />
-      &nbsp;
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn" style="width: 46%;" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" height="150px" /> 
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" height="150px" />
+&nbsp;
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="150px" />
 </div>
+
+
 
 ### 📊 Weekly development breakdown
 
