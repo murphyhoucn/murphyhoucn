@@ -32,12 +32,13 @@
 
 ### 📇 Github statistics
 <div style="display: flex;">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" style="width: 30%;" /> 
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" style="width: 50%;" /> 
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" style="width: 30%;" />
-&nbsp;
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" style="width: 30%;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" style="width: 50%;" />
+</br>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" style="width: 100%;" />
 </div>
+
 
 
 
