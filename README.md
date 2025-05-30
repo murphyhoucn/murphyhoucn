@@ -36,8 +36,12 @@
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" style="width: 50%;" />
 </br>
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" style="width: 100%;" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" style="width: 50%;" />
 </div>
+
+
+
+
 
 
 
