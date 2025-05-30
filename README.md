@@ -31,12 +31,14 @@
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40murpyhoucn%2F73835383-9c0c-4e6c-9641-27b248e942c2.json&query=%24.data.grand_total.human_readable_total_including_other_language&logo=wakatime&label=CodeTime&color=blue)](https://github.com/murpyhoucn)
 
 ### 📇 Github statistics
+<div align="center"> 
 <div style="display: flex;">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" style="width: 50%;" /> 
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Murphy's GitHub stats" style="width: 45%;" /> 
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" style="width: 50%;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" style="width: 45%;" />
 </br>
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" style="width: 50%;" />
+</div>
 </div>
 
 
