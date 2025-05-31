@@ -37,20 +37,17 @@
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" style="width: 45%;" />
 </br>
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" style="width: 30%;" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=8&theme=react&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" style="width: 45%;" />
 </div>
 </div>
 
-
-
-
-
-
-
-
-
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+### 📇 Github Commit Record
+<div style="text-align:center">
+      <a target="_blank" rel="noopener" href="https://github.com/murphyhoucn">
+      <img src="https://ghchart.rshah.org/murphyhoucn" alt="Murphy's Github chart" style="width: 80%;"/>
+      </a>
+      </br>
+      <a target="_blank" rel="noopener" href="https://github.com/murphyhoucn">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=murphyhoucn&amp;bg_color=ffffff&amp;theme=github-compact&amp;color=666666&amp;hide_title=true&amp;hide_border=true&amp;area=true&amp;height=300" style="width: 80%;">
+      </a>
+</div>
