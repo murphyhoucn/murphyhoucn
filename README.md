@@ -27,8 +27,8 @@
 - 💬 Ask me anything about from <a href="https://github.com/murphyhoucn/murphyhoucn/issues" title="Issues">Here</a>
 - 📫 How to reach me: <a href="mailto: cosmicdustycn@outlook.com">cosmicdustycn@outlook.com</a>
 
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmurpyhoucn&query=stars&suffix=%20stars&logo=Github&label=Github&color=blue)](https://github.com/murpyhoucn)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40murpyhoucn%2F73835383-9c0c-4e6c-9641-27b248e942c2.json&query=%24.data.grand_total.human_readable_total_including_other_language&logo=wakatime&label=CodeTime&color=blue)](https://github.com/murpyhoucn)
+<!-- [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmurpyhoucn&query=stars&suffix=%20stars&logo=Github&label=Github&color=blue)](https://github.com/murpyhoucn)
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40murpyhoucn%2F73835383-9c0c-4e6c-9641-27b248e942c2.json&query=%24.data.grand_total.human_readable_total_including_other_language&logo=wakatime&label=CodeTime&color=blue)](https://github.com/murpyhoucn) -->
 
 ### 📇 Github statistics
 <div align="center"> 
