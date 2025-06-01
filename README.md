@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-black?logo=Git) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 - 📃 Home Page 👉: <a href="https://cosmicdusty.cc/" title="Home Page">cosmicdusty.cc</a>
-- 📝 Blog 👉: <a href="https://cosmicdusty.cc/blog" title="Blog">cosmicdusty.cc/blog</a>
+- 📝 Blog 👉: <a href="https://blog.cosmicdusty.cc/" title="Blog">blog.cosmicdusty.cc</a>
 - 💬 Ask me anything about from <a href="https://github.com/murphyhoucn/murphyhoucn/issues" title="Issues">Here</a>
 - 📫 How to reach me: <a href="mailto: cosmicdustycn@outlook.com">cosmicdustycn@outlook.com</a>
 
