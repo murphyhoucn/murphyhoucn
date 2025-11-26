@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
+    ## 每天国际标准时间 0 点（北京时间早上 8 点）执行一次
     - cron: '0 0 * * *'
   workflow_dispatch:
 
