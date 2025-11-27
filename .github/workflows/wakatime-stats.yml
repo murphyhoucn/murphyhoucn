@@ -20,22 +20,23 @@ jobs:
           # LAYOUT: "compact"           # 布局：紧凑模式 (省空间神器！)
           
           # --- 核心展示 (开启) ---
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "True"   # the number of lines of code writen till date.
           SHOW_PROFILE_VIEWS: "True"   # 显示访问量
           SHOW_TOTAL_CODE_TIME: "True" # 显示总时长
-          
-          SHOW_PROJECTS: "True"        # 显示项目
-          SHOW_LANGUAGE: "True"        # 显示语言
-          SHOW_DAYS_OF_WEEK: "True"    # 周活跃图
+
           SHOW_OS: "True"              # 系统
-          SHOW_EDITORS: "True"         # 编辑器
           SHOW_TIMEZONE: "True"        # 时区
-          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_EDITORS: "True"         # 编辑器
+          SHOW_LANGUAGE: "True"        # the programming languages you use.
+          SHOW_PROJECTS: "True"        # 显示项目
+          SHOW_COMMIT: "True"          # the commit stats.
+          SHOW_DAYS_OF_WEEK: "True"    # the commits made on the different days of the week.
+          
           
           # --- 过滤 (关闭) ---
-          SHOW_LOC_CHART: "False"     # 趋势图
-          SHOW_SHORT_INFO: "False"    # 总结
-          SHOW_COMMIT: "False"        # 不看Commit统计(和GitHub原生绿格子重复)
+          SHOW_LOC_CHART: "False"         # the lines of code written in different quarters of different years.
+          SHOW_SHORT_INFO: "False"        # the short fun fact info of a user.
+          SHOW_LANGUAGE_PER_REPO: "False" # the number of repositories in different programming languages and frameworks.
 
           # --- 数量限制 ---
           MAX_PROJECT_LINES: 6        # 只显示前 6 个项目
