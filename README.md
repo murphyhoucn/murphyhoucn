@@ -71,13 +71,36 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
+
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   285 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Tuesday                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Wednesday                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Friday                   214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Saturday                 121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Sunday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Shanghai
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 
+🔥 Editors: 
+No Activity Tracked This Week
+
 🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -94,5 +117,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2025 03:00:53 UTC
+ Last Updated on 27/11/2025 03:19:17 UTC
 <!--END_SECTION:waka-->
