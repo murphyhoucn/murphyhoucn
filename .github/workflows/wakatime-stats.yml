@@ -2,8 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    ## 每天国际标准时间 0 点（北京时间早上 8 点）执行一次
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"  # 每天 UTC 0 点执行（北京时间早 8 点）
   workflow_dispatch:
 
 jobs:
@@ -13,5 +12,5 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
+          gh_token: ${{ secrets.GH_TOKEN }}
