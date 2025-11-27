@@ -20,19 +20,21 @@ jobs:
           # LAYOUT: "compact"           # 布局：紧凑模式 (省空间神器！)
           
           # --- 核心展示 (开启) ---
-          SHOW_TITLE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"   # 显示访问量
+          SHOW_TOTAL_CODE_TIME: "True" # 显示总时长
+          
           SHOW_PROJECTS: "True"        # 显示项目
           SHOW_LANGUAGE: "True"        # 显示语言
-          SHOW_TOTAL_CODE_TIME: "True" # 显示总时长
-          SHOW_PROFILE_VIEWS: "True"   # 显示访问量
+          SHOW_DAYS_OF_WEEK: "True"    # 周活跃图
+          SHOW_OS: "True"              # 系统
+          SHOW_EDITORS: "True"         # 编辑器
+          SHOW_TIMEZONE: "True"        # 时区
+          SHOW_LANGUAGE_PER_REPO: "True"
           
-          # --- 垃圾过滤 (关闭) ---
-          SHOW_OS: "False"            # 不看系统
-          SHOW_EDITORS: "False"       # 不看编辑器
-          SHOW_TIMEZONE: "False"      # 不看时区
-          SHOW_LOC_CHART: "False"     # 不看趋势折线图
-          SHOW_DAYS_OF_WEEK: "False"  # 不看周活跃图
-          SHOW_SHORT_INFO: "False"    # 不看那行废话总结
+          # --- 过滤 (关闭) ---
+          SHOW_LOC_CHART: "False"     # 趋势图
+          SHOW_SHORT_INFO: "False"    # 总结
           SHOW_COMMIT: "False"        # 不看Commit统计(和GitHub原生绿格子重复)
 
           # --- 数量限制 ---
