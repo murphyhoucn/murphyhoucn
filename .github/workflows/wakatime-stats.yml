@@ -44,4 +44,4 @@ jobs:
           
           # --- 隐私隐藏 ---
           # 如果你有不想让别人看见的项目，写在这里
-          IGNORED_REPOS: "private-tool, my-secret-diary"
+          # IGNORED_REPOS: "private-tool, my-secret-diary"
