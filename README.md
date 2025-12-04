@@ -1,27 +1,34 @@
-<h2 align="center">👋  Hi Here! I'm Murphy. Nice to meet you.  ❤</h1>
+<h2 align="center">👋  Hi Here! I'm Murphy. Nice to meet you.  🤗</h1>
+
+
 
 <div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=550&height=80&lines=%F0%9F%91%8B++Hi+Here!+I'm+Murphy.+Nice+to+meet+you.+%F0%9F%A4%97" alt="Typing SVG" /></a>
+    </br>
     <img src="https://murphyimg.oss-cn-beijing.aliyuncs.com/img/202505302043661.jpg" width="450px"/>
     </br>
   <p></p>
 </div>
 
 ### 👋 Hi
-- 👋 Hi, I'm Murphy, <b>Learning and always learning</b>
+- 👋 Hi, I'm Murphy, <b>Learning and always learning!</b>
 - 🏫 I've get the bachelor's degree in <b>Ocean University of China</b> majoring in Telecommunication Engineering.
 - 🏫 Now, I'm studying for the master's degree in <b>Northwestern Polytechnical University</b>, marjoring in <b>Information and Communication Engineering</b>.
-- 🔍 I’m currently learning <b>Computer Vision</b>, <b>Pattern Recognition</b> and <b>Image Processing</b> for Remote Sensing Images
-- 💻 I work using: 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?logo=Git) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+- 🔍 I’m currently learning <b>Computer Vision</b>, <b>Pattern Recognition</b> and <b>Image Processing</b> for Remote Sensing Images.
+- 💻 I work using:
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-black?logo=Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+</p>
+
 - 📃 Home Page 👉: <a href="https://cosmicdusty.cc/" title="Home Page">cosmicdusty.cc</a>
 - 📝 Blog 👉: <a href="https://blog.cosmicdusty.cc/" title="Blog">blog.cosmicdusty.cc</a>
 - 💬 Ask me anything about from <a href="https://github.com/murphyhoucn/murphyhoucn/issues" title="Issues">Here</a>
@@ -45,11 +52,10 @@
       <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murphyhoucn&layout=compact&langs_count=10&theme=react&role=OWNER,ORGANIZATION_MEMBER" />
     </td>
     <td width="50%" align="center">
-      <img src="https://stats.justsong.cn/api/leetcode?username=murphy-m9&cn=true&theme=react" />
+      <img src="https://stats.justsong.cn/api/leetcode?username=murphy-cs&cn=true&theme=react" />
     </td>
   </tr>
 </table>
-
 
 ### 📇 Github Commit Record
 <div align="center">
@@ -75,6 +81,8 @@
         </div>
     </div>
 </div>
+
+### 📇 Waka Time
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2030%20mins-blue)
