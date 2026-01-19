@@ -45,7 +45,8 @@
     </td>
     <td width="50%" align="center">
       <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" /> -->
-      <img src="https://streak-stats.demolab.com/?user=murphyhoucn&theme=react" />
+      <!-- <img src="https://streak-stats.demolab.com/?user=murphyhoucn&theme=react" /> -->
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=murphyhoucn&theme=react" />
     </td>
   </tr>
   <tr>
