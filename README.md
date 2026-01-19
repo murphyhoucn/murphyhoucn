@@ -44,7 +44,8 @@
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=murphyhoucn&count_private=true&theme=react&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" />
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=murphyhoucn&theme=react" /> -->
+      <img src="https://streak-stats.demolab.com/?user=murphyhoucn&theme=react" />
     </td>
   </tr>
   <tr>
@@ -76,7 +77,7 @@
             </picture>
             </br>
             <a target="_blank" rel="noopener" href="https://github-profile-trophy.vercel.app/?username=murphyhoucn&theme=dracula&no-frame=true&column=-1">
-              <img src="https://github-profile-trophy.vercel.app/?username=murphyhoucn&theme=dracula&no-frame=true&column=-1">
+              <img src="https://github-profile-trophy-fork-two.vercel.app/?username=murphyhoucn&theme=dracula&no-frame=true&column=-1">
             </a>
         </div>
     </div>
