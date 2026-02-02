@@ -87,8 +87,6 @@
 ### 📇 Waka Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%201%20min-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.81%20million%20lines%20of%20code-blue?style=flat)
@@ -120,19 +118,18 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      17 mins             █████████████████████████   100.00 % 
+TeX                      0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PhD_Pubs_Package         17 mins             █████████████████████████   99.82 % 
-NPU-Thesis-Petrichor     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+NPU-Thesis-Petrichor     0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/02/2026 03:23:53 UTC
+ Last Updated on 02/02/2026 02:56:24 UTC
 <!--END_SECTION:waka-->
