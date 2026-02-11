@@ -120,18 +120,20 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     27 mins             ███████████░░░░░░░░░░░░░░   44.71 % 
+Python                   20 mins             ████████░░░░░░░░░░░░░░░░░   33.56 % 
+HTML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Family-Hou               1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/02/2026 03:22:32 UTC
+ Last Updated on 11/02/2026 03:20:04 UTC
 <!--END_SECTION:waka-->
