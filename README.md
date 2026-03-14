@@ -77,9 +77,9 @@
               <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/murphyhoucn/murphyhoucn/output/github-contribution-grid-snake.svg">
             </picture>
             </br>
-            <a target="_blank" rel="noopener" href="https://github-profile-trophy.vercel.app/?username=murphyhoucn&theme=dracula&no-frame=true&column=-1">
+            <!-- <a target="_blank" rel="noopener" href="https://github-profile-trophy.vercel.app/?username=murphyhoucn&theme=dracula&no-frame=true&column=-1">
               <img src="https://github-profile-trophy-fork-two.vercel.app/?username=murphyhoucn&theme=dracula&no-frame=true&column=-1">
-            </a>
+            </a> -->
         </div>
     </div>
 </div>
