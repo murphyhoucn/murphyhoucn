@@ -89,7 +89,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.75%20million%20lines%20of%20code-blue?style=flat)
 
@@ -120,22 +120,18 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   49 mins             █████████████░░░░░░░░░░░░   52.60 % 
-Batchfile                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TickTock-Timelapse       1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/03/2026 03:29:23 UTC
+ Last Updated on 30/03/2026 03:32:13 UTC
 <!--END_SECTION:waka-->
