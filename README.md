@@ -120,18 +120,20 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      42 mins             ███████████████████░░░░░░   77.60 % 
+JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+data-structure           55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/04/2026 03:42:51 UTC
+ Last Updated on 20/04/2026 03:46:24 UTC
 <!--END_SECTION:waka-->
