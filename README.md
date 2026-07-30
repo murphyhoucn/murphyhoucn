@@ -87,6 +87,10 @@
 ### 📇 Waka Time
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2032%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.75%20million%20lines%20of%20code-blue?style=flat)
@@ -137,5 +141,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2026 03:27:30 UTC
+ Last Updated on 30/07/2026 03:15:28 UTC
 <!--END_SECTION:waka-->
