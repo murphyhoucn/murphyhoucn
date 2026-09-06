@@ -87,7 +87,7 @@
 ### 📇 Waka Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%203%20mins-blue?style=flat)
 
@@ -122,16 +122,20 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               0 secs              █████████████████████████   100.00 % 
+SSH Config               0 secs              █████████████░░░░░░░░░░░░   51.41 % 
+Python                   0 secs              ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Other                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+Unknown Project          0 secs              █████████████░░░░░░░░░░░░   51.41 % 
+TRL                      0 secs              ████████████░░░░░░░░░░░░░   48.59 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████░░░░░░░░░░░░   51.41 % 
+Linux                    0 secs              ████████████░░░░░░░░░░░░░   48.59 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,5 +145,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/09/2026 04:14:12 UTC
+ Last Updated on 06/09/2026 04:22:42 UTC
 <!--END_SECTION:waka-->
