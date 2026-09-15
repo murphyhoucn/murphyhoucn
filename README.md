@@ -122,16 +122,21 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 27 mins             ██████████░░░░░░░░░░░░░░░   40.98 % 
+Python                   22 mins             █████████░░░░░░░░░░░░░░░░   34.65 % 
+CSV                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+OceanPile                42 mins             ████████████████░░░░░░░░░   64.84 % 
+TRL                      23 mins             █████████░░░░░░░░░░░░░░░░   35.16 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,5 +146,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/09/2026 04:42:32 UTC
+ Last Updated on 15/09/2026 04:43:30 UTC
 <!--END_SECTION:waka-->
