@@ -122,21 +122,23 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 27 mins             ██████████░░░░░░░░░░░░░░░   40.98 % 
-Python                   22 mins             █████████░░░░░░░░░░░░░░░░   34.65 % 
-CSV                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown                 27 mins             ██████████░░░░░░░░░░░░░░░   40.50 % 
+Python                   22 mins             █████████░░░░░░░░░░░░░░░░   34.25 % 
+CSV                      14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OceanPile                42 mins             ████████████████░░░░░░░░░   64.84 % 
-TRL                      23 mins             █████████░░░░░░░░░░░░░░░░   35.16 % 
+OceanPile                42 mins             ████████████████░░░░░░░░░   64.09 % 
+TRL                      23 mins             █████████░░░░░░░░░░░░░░░░   34.75 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 5 mins         █████████████████████████   98.84 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,5 +148,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/09/2026 04:28:32 UTC
+ Last Updated on 19/09/2026 04:26:01 UTC
 <!--END_SECTION:waka-->
