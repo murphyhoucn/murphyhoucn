@@ -87,9 +87,9 @@
 ### 📇 Waka Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -122,41 +122,52 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 46 mins             █████████████████████████   100.00 % 
+Markdown                 2 hrs 57 mins       ██████████████░░░░░░░░░░░   57.03 % 
+Bash                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Antigravity Desktop      46 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 24 mins       █████████████████████░░░░   85.07 % 
+Antigravity Desktop      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
 
 🐱‍💻 Projects: 
-Unknown Project          43 mins             ███████████████████████░░   93.61 % 
-scratch                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+nanoGPT-reimpl           1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   36.88 % 
+daily-scripts            1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+minGPT                   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Unknown Project          44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+nanoVLM                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+Linux                    4 hrs 24 mins       █████████████████████░░░░   85.07 % 
+Windows                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 49 mins (74.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 1,346 lines written by AI, 48 lines written by hand (96.56% AI-written)
 
-🔤 177,669 Input Tokens, 7,965 Output Tokens
+🔤 429,190 Input Tokens, 47,943 Output Tokens
 
-💵 $0.16 Estimated AI Cost This Week
+💵 $16.56 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 6 AI Sessions, 27 AI Prompts
 
+ZCode                    1,346 lines         █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 48 characters per prompt
+🤖 AI-Driven — 96.56% of written lines came from AI
+📝 Concise Prompter — average 209 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🚀 High AI Trust — 3.51% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/10/2026 05:24:13 UTC
+ Last Updated on 03/10/2026 05:06:56 UTC
 <!--END_SECTION:waka-->
