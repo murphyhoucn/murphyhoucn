@@ -87,9 +87,9 @@
 ### 📇 Waka Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -122,57 +122,57 @@ Sunday                   124 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.97 % 
-Markdown                 5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Markdown                 3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
+Python                   2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Bash                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+SSH Config               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Codex Vscode             5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-ZCode                    4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Zed                      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-CodeBuddy                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Zed                      3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.56 % 
+Codex Vscode             2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+VS Code                  2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+ZCode                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+CodeBuddy                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🐱‍💻 Projects: 
-virgo                    12 hrs 54 mins      ████████████████░░░░░░░░░   63.13 % 
-Unknown Project          2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-daily-scripts            2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-OceanPile                1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-ssh                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+virgo                    3 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.54 % 
+Unknown Project          2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+OceanPile                1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+ssh                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+cosmi                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 Operating System: 
-Linux                    16 hrs 29 mins      ████████████████████░░░░░   80.60 % 
-Windows                  3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Linux                    5 hrs 11 mins       ██████████████░░░░░░░░░░░   56.31 % 
+Windows                  4 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 8 mins (78.87%)
+⏱ AI Coding Time: 5 hrs 13 mins (56.74%)
 
-✍️ 11,763 lines written by AI, 268 lines written by hand (97.77% AI-written)
+✍️ 5,946 lines written by AI, 262 lines written by hand (95.78% AI-written)
 
-🔤 5,618,566 Input Tokens, 1,581,712 Output Tokens
+🔤 1,621,590 Input Tokens, 692,118 Output Tokens
 
-💵 $718.93 Estimated AI Cost This Week
+💵 $125.92 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 72 AI Prompts
+🧠 16 AI Sessions, 39 AI Prompts
 
-CodeBuddy                4,478 lines         █████████░░░░░░░░░░░░░░░░   37.86 % 
-GPT                      3,422 lines         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-ZCode                    3,367 lines         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-DeepSeek                 561 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+GPT                      3,058 lines         █████████████░░░░░░░░░░░░   51.15 % 
+CodeBuddy                1,706 lines         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+ZCode                    620 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+DeepSeek                 595 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.77% of written lines came from AI
-📄 Detailed Prompter — average 726 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.89% of changed lines were hand-edited
+🤖 AI-Driven — 95.78% of written lines came from AI
+📝 Concise Prompter — average 345 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 9.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 04:25:53 UTC
+ Last Updated on 20/10/2026 04:36:27 UTC
 <!--END_SECTION:waka-->
