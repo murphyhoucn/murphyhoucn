@@ -122,55 +122,56 @@ Sunday                   124 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.38 % 
-Python                   1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Other                    1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Markdown                 7 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.92 % 
+Other                    3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Python                   2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Image (png)              2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+JavaScript               2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.59 % 
-Zed                      1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.32 % 
-CodeBuddy                1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Codex Vscode             25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Codebuddy Code           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Zed                      9 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.87 % 
+VS Code                  7 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Codex Vscode             2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+ZCode                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+CodeBuddy                1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🐱‍💻 Projects: 
-virgo                    2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.28 % 
-2026.09.21 人工智能赋能科研      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-OceanPile                40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-NautData                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Unknown Project          36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+2026.09.21 人工智能赋能科研      8 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.18 % 
+virgo                    6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
+Unknown Project          1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+OceanPile                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+default                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 💻 Operating System: 
-Linux                    3 hrs 44 mins       █████████████████░░░░░░░░   67.68 % 
-Windows                  1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.32 % 
+Windows                  12 hrs 43 mins      ███████████████░░░░░░░░░░   59.52 % 
+Linux                    8 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 42 mins (85.17%)
+⏱ AI Coding Time: 18 hrs 33 mins (86.83%)
 
-✍️ 1,291 lines written by AI, 376 lines written by hand (77.44% AI-written)
+✍️ 9,566 lines written by AI, 36,562 lines written by hand (20.74% AI-written)
 
-🔤 1,064,388 Input Tokens, 287,127 Output Tokens
+🔤 5,340,499 Input Tokens, 1,378,089 Output Tokens
 
-💵 $46.74 Estimated AI Cost This Week
+💵 $253.32 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 28 AI Prompts
+🧠 33 AI Sessions, 129 AI Prompts
 
-GLM                      667 lines           █████████████░░░░░░░░░░░░   51.67 % 
-GPT                      624 lines           ████████████░░░░░░░░░░░░░   48.33 % 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    3,714 lines         ██████████░░░░░░░░░░░░░░░   38.83 % 
+DeepSeek                 3,460 lines         █████████░░░░░░░░░░░░░░░░   36.17 % 
+GPT                      1,717 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+GLM                      675 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.44% of written lines came from AI
-📝 Concise Prompter — average 404 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 23.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 20.74% of written lines came from AI
+📝 Concise Prompter — average 205 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 79.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 04:48:55 UTC
+ Last Updated on 28/10/2026 05:23:18 UTC
 <!--END_SECTION:waka-->
